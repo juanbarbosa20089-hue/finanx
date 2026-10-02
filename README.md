@@ -1,16 +1,58 @@
-# React + Vite
+# 💰 Finanx
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Gerenciador financeiro digital
 
-Currently, two official plugins are available:
+O **Finanx** é um projeto pessoal desenvolvido para explorar a criação de uma aplicação web voltada para **organização e gerenciamento financeiro**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A ideia do projeto é transformar uma necessidade do dia a dia em uma experiência digital simples, organizada e intuitiva.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Sobre o projeto
 
-## Expanding the ESLint configuration
+O Finanx foi criado como parte da minha jornada na **Engenharia de Software**, colocando em prática conhecimentos de desenvolvimento web, interface e experiência do usuário.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+O projeto está em desenvolvimento e continuará recebendo novas funcionalidades conforme minha evolução na área.
+
+### ✨ Principais objetivos
+
+- 📊 Organização das informações financeiras
+- 💰 Visualização do saldo
+- 🧾 Gerenciamento financeiro
+- 🎨 Interface simples e intuitiva
+- 📱 Experiência adaptada para diferentes dispositivos
+
+---
+
+## 🛠️ Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- UI/UX
+- VS Code
+- GitHub
+
+---
+
+## 🌐 Acesse o projeto
+
+🔗 **[Visitar o Finanx](https://finanx-liart.vercel.app/)**
+
+---
+
+## 👨‍💻 Sobre o desenvolvedor
+
+**Juan Carvalho Barbosa**
+
+Estudante de Engenharia de Software e desenvolvedor em formação.
+
+Atualmente no 2º semestre, explorando desenvolvimento web, JavaScript, UI/UX e criação de projetos digitais.
+
+📷 **[Instagram](https://www.instagram.com/juanbarbosa.dev)**
+
+🌐 **[Portfólio](https://finanx-liart.vercel.app/)**
+
+---
+
+> Projeto desenvolvido por Juan Carvalho Barbosa 🚀
